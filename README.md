@@ -2,7 +2,9 @@
 This data was collected from WHO and United Nations website, and the analysis was completed using python.
 
 Due to github's page rendering, two versions of this project are provided. One with Seaborn, and the other one with plotly library.
+
 To view on github, you can open the LifeExpect.ipynb (containing seaborn)
+
 For greater visualization, please download the html file, which contains the one with plotly graphs.
 
 The data set aimed to answer the following key questions:
